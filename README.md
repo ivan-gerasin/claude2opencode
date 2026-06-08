@@ -9,6 +9,13 @@ subagents (including ones bundled in installed plugins) into OpenCode-compatible
 > correctness, fitness for purpose, or ongoing maintenance. Review the code and
 > its output before relying on it, especially since it writes files into your
 > home directory.
+>
+> Idea author: [Ivan Gerasin](https://github.com/ivan-gerasin) — didn't write a
+> line of code, just asked for it.
+
+## License
+
+[MIT](LICENSE) — free to use, modify, and distribute, with attribution.
 
 ## What it does
 
